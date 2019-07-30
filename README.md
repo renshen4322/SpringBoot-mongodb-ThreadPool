@@ -1,0 +1,3 @@
+# SpringBoot-mongodb-ThreadPool
+mongodb 实现线程池方式
+同时实现多个参数的reduce方法对List进行分组求和统计
